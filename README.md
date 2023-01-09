@@ -1,6 +1,6 @@
 # Bref-Shorthand-Converter
 
-## Simple tool to convert normal text to Bref, an alphabetic shorthand system ([more info](https://www.reddit.com/r/shorthand/comments/esjhdk/bref_shorthand/), [here](https://drive.google.com/drive/folders/1PZcAYhusYGpaLHwMUBAdZURA25lKk2Mu))
+## Simple tool to convert normal text to Bref, an alphabetic shorthand system ([more info here](https://www.reddit.com/r/shorthand/comments/esjhdk/bref_shorthand/), [Bref manual here](https://drive.google.com/drive/folders/1PZcAYhusYGpaLHwMUBAdZURA25lKk2Mu))
 
 # Prerequisites
 - Latest version of Python 3
