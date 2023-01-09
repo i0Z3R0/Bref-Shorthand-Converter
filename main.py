@@ -1,4 +1,5 @@
 import csv
+import pyperclip
 
 abbr_dict = {}
 with open('abbr.csv', 'r') as csv_file:
@@ -22,3 +23,5 @@ while True:
     print(output_text)
     with open("abbr.txt", "a") as output_file:
         output_file.write(output_text + "\n\n")
+    output_text = output_text.rstrip()
+    pyperclip.copy(output_text)

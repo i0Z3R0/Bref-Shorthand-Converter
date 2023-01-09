@@ -1,0 +1,2 @@
+tstg sm txt    spcs
+
