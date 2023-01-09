@@ -14,3 +14,4 @@
 1. Run the program
 2. Type in anything in normal English
 3. The program prints the text in Bref and saves it to abbr.txt
+4. If a word is not in the Bref dictionary (abbr.csv), it will just add the whole word to the output
